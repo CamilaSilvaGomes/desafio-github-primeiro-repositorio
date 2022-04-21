@@ -1,0 +1,11 @@
+
+Comandos de GIT
+
+Referente a mudanças e locais
+- git status: arquivos alterados em seu diretório;
+- git diff: mudanças em arquivos rastreados;
+- git add. : adicione todas as mudanças atuais para o próximo commit;
+- git add. -p <file> : confirmar todas as alterações locais em arquivos rastreados;
+- git commit -a : confirma todas as alterações locais em arquivos;
+- git commit: confirma alterações previamente preparadas;
+- git commit --amend: muda o último commit.
