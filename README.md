@@ -2,5 +2,5 @@
 Repositório criado para o desafio de Projeto.
 
 ## Links úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[GIT Tutorial para Iniciantes](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao)
 
