@@ -1,0 +1,7 @@
+Ao alterar uma pasta no computador:
+
+1) Executar:
+- git status
+- git add .
+- git commit -m "Incluindo o commit"
+- git push origin main
